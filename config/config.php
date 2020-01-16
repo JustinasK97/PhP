@@ -1,2 +1,2 @@
 <?php
-const siteName = 'Mokiniai';
+const siteName = 'Form';
